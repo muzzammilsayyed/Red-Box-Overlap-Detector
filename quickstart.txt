@@ -1,0 +1,30 @@
+============================================================
+      Red Box Overlap Detector - Quick Start Guide
+============================================================
+
+INSTALLATION:
+1. Install Python 3.7 or newer if not already installed
+2. Open a command prompt in this folder
+3. Run: pip install -r requirements.txt
+
+GETTING STARTED:
+1. Open MicroStation with your drawing
+2. Run: python main.py
+3. Choose option 3 to start the box mover
+4. The program starts in TEST MODE (no actual movement)
+5. Press 'T' to toggle test mode OFF when ready
+6. Press 'Q' to quit when finished
+
+KEYBOARD CONTROLS:
+T - Toggle test mode on/off
+P - Pause/resume
+R - Reset box tracking
+Q - Quit
+
+TESTING TIPS:
+- Start with option 1 to test detection on sample images
+- Use option 2 to test in simulation mode
+- Move mouse to top-left corner to abort (emergency stop)
+
+For complete documentation, see README.md file.
+
