@@ -76,4 +76,3 @@ If you want to test the detection without running the full application:
 - Python 3.7 or newer
 - MicroStation with visible red text boxes
 - Screen resolution of at least 1024x768
-```
