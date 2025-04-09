@@ -1,4 +1,4 @@
-```markdown
+
 # Red Box Overlap Detector and Mover for MicroStation
 
 This application automatically detects red text boxes in MicroStation drawings, identifies overlapping boxes, and moves them to appropriate white spaces.
